@@ -2,7 +2,7 @@
 
 const path = require('path')
 
-module.exprots = {
+module.exports = {
   entry: [
     path.resolve(__dirname, 'src/js/index.js')
   ],
