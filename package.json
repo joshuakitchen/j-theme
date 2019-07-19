@@ -1,0 +1,17 @@
+{
+  "name": "js-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress --mode production",
+    "watch": "webpack --watch --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joshua Kitchen <joshua.kitchen95@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "webpack": "4.33.0"
+  }
+}
