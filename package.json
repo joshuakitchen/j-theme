@@ -12,6 +12,6 @@
   "author": "Joshua Kitchen <joshua.kitchen95@gmail.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "webpack": "4.36.1"
+    "webpack": "5.75.0"
   }
 }
